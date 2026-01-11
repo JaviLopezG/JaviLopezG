@@ -1,4 +1,4 @@
-[![Octo Juggler](https://octocat.yups.me/badge/JaviLopezG)](https://octocat.yups.me/stats/JaviLopezG)
+[![Octo Juggler](https://octocat.yups.me/badge/JaviLopezG?1)](https://octocat.yups.me/stats/JaviLopezG)
 
 - 🔭 I’m currently working on [yups](https://github.com/javilopezg/yups)
 - 🌱 I’m currently learning at Universidad de León (Máster en investigación en Ciberseguridad)
