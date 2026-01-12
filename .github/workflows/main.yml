@@ -22,5 +22,5 @@ jobs:
           empty-commits: false
           max: 7
           template: |
-            * **[{{title}}]({{link}})**
+            * **{{title}}**
             > {{content}}
