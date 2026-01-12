@@ -11,11 +11,11 @@
 ### ✍️ Últimos posts sobre tecnología:
 
 <!--START_SECTION:feed-->
-* Collaborative Anual Planner -> 
-* Bingo Social -> 
-* Recomendaciones de seguridad online -> 
-* Copiar un archivo a otra «máquina» -> 
-* TFI 002 -> 
-* TFI 001 -> 
-* TFI 000 -> 
+* [Collaborative Anual Planner](https://javilopezg.com/collaborative-anual-planner/)
+* [Bingo Social](https://javilopezg.com/bingo-social/)
+* [Recomendaciones de seguridad online](https://javilopezg.com/recomendaciones-de-seguridad-online/)
+* [Copiar un archivo a otra «máquina»](https://javilopezg.com/copiar-un-archivo-a-otra-maquina/)
+* [TFI 002](https://javilopezg.com/tfi-002/)
+* [TFI 001](https://javilopezg.com/tfi-001/)
+* [TFI 000](https://javilopezg.com/tfi-000/)
 <!--END_SECTION:feed-->
