@@ -21,4 +21,6 @@ jobs:
           readme-section: feed
           empty-commits: false
           max: 7
-          template: "* [{{title}}]({{link}}) {{description}}"
+          template: |
+          * **[{{title}}]({{link}})**
+          > {{description}}
