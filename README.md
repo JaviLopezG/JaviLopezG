@@ -4,7 +4,7 @@
 
 🌱 I’m currently pursuing a Master’s in Cybersecurity Research at Universidad de León  
 
-👯 I’m looking to collaborate on anything you might need help with—just ask. A few things I've accomplished:
+👯 I’m looking to collaborate on anything you might need help with—[just ask](https://github.com/JaviLopezG/JaviLopezG/discussions). A few things I've accomplished:
 
 * Hired more than 100 people  
 * Managed several teams and my own companies  
@@ -15,11 +15,11 @@
 
 🤔 I’m looking for help with native LLM integration for Go CLI tools (see yups above)  
 
-💬 Ask me about books, dog training, guitars... and product development, of course. I also know a lot about failing—I've had my fair share of practice\! :)  
+💬 [Ask me](https://github.com/JaviLopezG/JaviLopezG/discussions) about books, dog training, guitars... and product development, of course. I also know a lot about failing—I've had my fair share of practice\! :)  
 
-📫 How to reach me: Drop me a line at my email  
+📫 How to reach me: [Start a public discussion](https://github.com/JaviLopezG/JaviLopezG/discussions) or drop me a line at my email 
 
-⚡ Fun fact: I have a condition so rare that doctors haven't named it yet, so I officially dubbed it "Javi’s disease."  
+⚡ Fun fact: I have a condition so rare that doctors haven't named it yet, so I officially dubbed it "Javi’s disease." (:
 
 ## ✍️ Últimos posts sobre tecnología:
 
