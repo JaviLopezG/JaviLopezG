@@ -8,10 +8,10 @@
 - 📫 How to reach me: send me a word to my [mail](mailto://mail@javilopezg.com)
 - ⚡ Fun fact: I'm really sick but nobody knows the name, so I named it Javi's disease 
 
-### ✍️ Últimos posts sobre tecnología:
+## ✍️ Últimos posts sobre tecnología:
 
 <!--START_SECTION:feed-->
-* **Collaborative Anual Planner**
+### **Collaborative Anual Planner**
 > <p>Esta aplicación web permite crear calendarios que compartir con otras personas, haciendo que cualquiera con el enlace pueda editarlo sin necesidad de crear usuarios ni identificarse de ningún modo. El calendario, por defecto, se establece para el año en curso salvo si es diciembre que ya se prepara para lo que viene. Sin embargo, en &#8230; <a href="https://javilopezg.com/collaborative-anual-planner/" class="more-link">Continuar leyendo<span class="screen-reader-text"> "Collaborative Anual Planner"</span></a></p>
 <p>La entrada <a href="https://javilopezg.com/collaborative-anual-planner/">Collaborative Anual Planner</a> se publicó primero en <a href="https://javilopezg.com">Javi López G.</a>.</p>
 
