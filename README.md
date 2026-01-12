@@ -1,12 +1,20 @@
 [![Octo Juggler](https://octocat.yups.me/badge/JaviLopezG?1)](https://octocat.yups.me/stats/JaviLopezG)
 
-- 🔭 I’m currently working on [yups](https://github.com/javilopezg/yups)
-- 🌱 I’m currently learning at Universidad de León (Máster en investigación en Ciberseguridad)
-- 👯 I’m looking to collaborate on anything you need help, just ask
-- 🤔 I’m looking for help with native llm usage from go cli tools (see yups above)
-- 💬 Ask me about books, dog training, guitars... and product development, yes... and failing, I also know a lot about that (:
-- 📫 How to reach me: send me a word to my [mail](mailto://mail@javilopezg.com)
-- ⚡ Fun fact: I'm really sick but nobody knows the name, so I named it Javi's disease 
+🔭 I’m currently working on [yups](https://github.com/javilopezg/yups)  
+🌱 I’m currently pursuing a Master’s in Cybersecurity Research at Universidad de León  
+👯 I’m looking to collaborate on anything you might need help with—just ask. A few things I've accomplished:
+
+* Hired more than 100 people  
+* Managed several teams and my own companies  
+* Became the first person in the world to install Compiz on Ubuntu  
+* Created forward-thinking projects, like a Messenger plugin that read messages aloud (over 25 years ago) or a bot that generated tech news posts long before generative AI  
+* Developed [boring things for money](https://www.google.com/search?q=https://linkedin.com/in/javilopezg), such as server-side Office automation (please, don't do that) or PDF printer drivers (before they were standard)  
+* I enjoy distributed and concurrent systems architecture, problem-solving, and product analysis
+
+🤔 I’m looking for help with native LLM integration for Go CLI tools (see yups above)  
+💬 Ask me about books, dog training, guitars... and product development, of course. I also know a lot about failing—I've had my fair share of practice\! :)  
+📫 How to reach me: Drop me a line at my email  
+⚡ Fun fact: I have a condition so rare that doctors haven't named it yet, so I officially dubbed it "Javi’s disease."  
 
 ## ✍️ Últimos posts sobre tecnología:
 
