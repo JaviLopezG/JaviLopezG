@@ -10,7 +10,7 @@
 * Managed several teams and my own companies  
 * Became the first person in the world to install Compiz on Ubuntu  
 * Created forward-thinking projects, like a Messenger plugin that read messages aloud (over 25 years ago) or a bot that generated tech news posts long before generative AI  
-* Developed [boring things for money](https://www.google.com/search?q=https://linkedin.com/in/javilopezg), such as server-side Office automation (please, don't do that) or PDF printer drivers (before they were standard)  
+* Developed [boring things for money](https://linkedin.com/in/javilopezg), such as server-side Office automation (please, don't do that) or PDF printer drivers (before they were standard)  
 * I enjoy distributed and concurrent systems architecture, problem-solving, and product analysis
 
 🤔 I’m looking for help with native LLM integration for Go CLI tools (see yups above)  
