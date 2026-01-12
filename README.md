@@ -1,7 +1,9 @@
 [![Octo Juggler](https://octocat.yups.me/badge/JaviLopezG?1)](https://octocat.yups.me/stats/JaviLopezG)
 
 🔭 I’m currently working on [yups](https://github.com/javilopezg/yups)  
+
 🌱 I’m currently pursuing a Master’s in Cybersecurity Research at Universidad de León  
+
 👯 I’m looking to collaborate on anything you might need help with—just ask. A few things I've accomplished:
 
 * Hired more than 100 people  
@@ -12,8 +14,11 @@
 * I enjoy distributed and concurrent systems architecture, problem-solving, and product analysis
 
 🤔 I’m looking for help with native LLM integration for Go CLI tools (see yups above)  
+
 💬 Ask me about books, dog training, guitars... and product development, of course. I also know a lot about failing—I've had my fair share of practice\! :)  
+
 📫 How to reach me: Drop me a line at my email  
+
 ⚡ Fun fact: I have a condition so rare that doctors haven't named it yet, so I officially dubbed it "Javi’s disease."  
 
 ## ✍️ Últimos posts sobre tecnología:
