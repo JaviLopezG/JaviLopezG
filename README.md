@@ -11,5 +11,11 @@
 ### ✍️ Últimos posts sobre tecnología:
 
 <!--START_SECTION:feed-->
-...
+* Collaborative Anual Planner -> 
+* Bingo Social -> 
+* Recomendaciones de seguridad online -> 
+* Copiar un archivo a otra «máquina» -> 
+* TFI 002 -> 
+* TFI 001 -> 
+* TFI 000 -> 
 <!--END_SECTION:feed-->
