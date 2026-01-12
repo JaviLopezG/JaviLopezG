@@ -1,6 +1,6 @@
 [![Octo Juggler](https://octocat.yups.me/badge/JaviLopezG?1)](https://octocat.yups.me/stats/JaviLopezG)
 
-🔭 I’m currently working on [yups](https://github.com/javilopezg/yups)  
+🔭 [I’m currently working](https://github.com/users/JaviLopezG/projects/2/views/1) on [yups](https://github.com/javilopezg/yups)  
 
 🌱 I’m currently pursuing a Master’s in Cybersecurity Research at Universidad de León  
 
@@ -8,7 +8,7 @@
 
 * Hired more than 100 people  
 * Managed several teams and my own companies  
-* Became the first person in the world to install Compiz on Ubuntu  
+* Became the first person in the world to install Compiz on Ubuntu 👴
 * Created forward-thinking projects, like a Messenger plugin that read messages aloud (over 25 years ago) or a bot that generated tech news posts long before generative AI  
 * Developed [boring things for money](https://linkedin.com/in/javilopezg), such as server-side Office automation (please, don't do that) or PDF printer drivers (before they were standard)  
 * I enjoy distributed and concurrent systems architecture, problem-solving, and product analysis
@@ -20,6 +20,8 @@
 📫 How to reach me: [Start a public discussion](https://github.com/JaviLopezG/JaviLopezG/discussions/new/choose) or drop me a line at my email 
 
 ⚡ Fun fact: I have a condition so rare that doctors haven't named it yet, so I officially dubbed it "Javi’s disease." (:
+
+⭐ [These](https://github.com/JaviLopezG?tab=stars) are the projects that looked interesting to me.
 
 ## ✍️ Últimos posts sobre tecnología:
 
