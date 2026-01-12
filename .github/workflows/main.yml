@@ -1,15 +1,20 @@
+# .github/workflows/update-readme.yml - Workflow to update README with RSS feed
 name: Update this repo's README
 
 on:
   schedule:
-    # Once a day at 8 AM
-    - cron: 0 11 * * *
+    # Runs at 11:00 UTC every day
+    - cron: '0 11 * * *'
   workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Grants permission to push changes to the repo
     steps:
+      - uses: actions/checkout@v4 # Check out the repo code first (recommended)
+      
       - uses: JasonEtco/rss-to-readme@v2
         with:
           feed-url: https://javilopezg.com/category/seccion/tecnologia/feed/
