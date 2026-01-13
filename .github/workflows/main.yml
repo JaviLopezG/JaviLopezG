@@ -23,5 +23,5 @@ jobs:
           max: 3
           template: |
             ### **{{title}}**
-            <sup><time>{{pubDate}}</time></sup>
-            > <sub>{{content}}</sub>
+            <details><summary><sup><time>{{pubDate}}</time></sup></summary>
+            {{content}}</details>
