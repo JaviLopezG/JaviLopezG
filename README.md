@@ -28,20 +28,17 @@
 <!--START_SECTION:feed-->
 ### **Collaborative Anual Planner**
 <sup><time>Tue, 30 Dec 2025 17:34:43 +0000</time></sup>
-><p>Esta aplicación web permite crear calendarios que compartir con otras personas, haciendo que cualquiera con el enlace pueda editarlo sin necesidad de crear usuarios ni identificarse de ningún modo. El calendario, por defecto, se establece para el año en curso salvo si es diciembre que ya se prepara para lo que viene. Sin embargo, en &#8230; <a href="https://javilopezg.com/collaborative-anual-planner/" class="more-link">Continuar leyendo<span class="screen-reader-text"> "Collaborative Anual Planner"</span></a></p>
+> <sub><p>Esta aplicación web permite crear calendarios que compartir con otras personas, haciendo que cualquiera con el enlace pueda editarlo sin necesidad de crear usuarios ni identificarse de ningún modo. El calendario, por defecto, se establece para el año en curso salvo si es diciembre que ya se prepara para lo que viene. Sin embargo, en &#8230; <a href="https://javilopezg.com/collaborative-anual-planner/" class="more-link">Continuar leyendo<span class="screen-reader-text"> "Collaborative Anual Planner"</span></a></p>
 <p>La entrada <a href="https://javilopezg.com/collaborative-anual-planner/">Collaborative Anual Planner</a> se publicó primero en <a href="https://javilopezg.com">Javi López G.</a>.</p>
-
->
+</sub>
 ### **Bingo Social**
 <sup><time>Tue, 23 Dec 2025 10:54:00 +0000</time></sup>
-><p>Bingo Social es una web app que permite crear cartones de bingo que puedes compartir con amigos o en redes para que todos jueguen a la vez y puedan ver en tiempo real la evolución de los demás participantes. Es un modo de mantenerse entretenido y en contacto de un modo amigable y divertido. Cada &#8230; <a href="https://javilopezg.com/bingo-social/" class="more-link">Continuar leyendo<span class="screen-reader-text"> "Bingo Social"</span></a></p>
+> <sub><p>Bingo Social es una web app que permite crear cartones de bingo que puedes compartir con amigos o en redes para que todos jueguen a la vez y puedan ver en tiempo real la evolución de los demás participantes. Es un modo de mantenerse entretenido y en contacto de un modo amigable y divertido. Cada &#8230; <a href="https://javilopezg.com/bingo-social/" class="more-link">Continuar leyendo<span class="screen-reader-text"> "Bingo Social"</span></a></p>
 <p>La entrada <a href="https://javilopezg.com/bingo-social/">Bingo Social</a> se publicó primero en <a href="https://javilopezg.com">Javi López G.</a>.</p>
-
->
+</sub>
 ### **Recomendaciones de seguridad online**
 <sup><time>Tue, 29 Jul 2025 09:00:00 +0000</time></sup>
-><p>Hoy en día, todo el mundo debería de seguir unas pautas seguras en su vida digital para evitar peligros como estafas, suplantaciones, engaños, etc. Hay algunas que son muy fáciles de seguir y que cualquiera puede incorporar en su día a día: Otras, como el abandono de las redes sociales propietarias pasando a federadas o &#8230; <a href="https://javilopezg.com/recomendaciones-de-seguridad-online/" class="more-link">Continuar leyendo<span class="screen-reader-text"> "Recomendaciones de seguridad online"</span></a></p>
+> <sub><p>Hoy en día, todo el mundo debería de seguir unas pautas seguras en su vida digital para evitar peligros como estafas, suplantaciones, engaños, etc. Hay algunas que son muy fáciles de seguir y que cualquiera puede incorporar en su día a día: Otras, como el abandono de las redes sociales propietarias pasando a federadas o &#8230; <a href="https://javilopezg.com/recomendaciones-de-seguridad-online/" class="more-link">Continuar leyendo<span class="screen-reader-text"> "Recomendaciones de seguridad online"</span></a></p>
 <p>La entrada <a href="https://javilopezg.com/recomendaciones-de-seguridad-online/">Recomendaciones de seguridad online</a> se publicó primero en <a href="https://javilopezg.com">Javi López G.</a>.</p>
-
->
+</sub>
 <!--END_SECTION:feed-->
