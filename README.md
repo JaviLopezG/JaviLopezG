@@ -21,7 +21,7 @@
 
 ⚡ Fun fact: I have a condition so rare that doctors haven't named it yet, so I officially dubbed it "Javi’s disease." (:
 
-⭐ [These](https://github.com/JaviLopezG?tab=stars) are the projects that looked interesting to me.
+⭐ [These](https://github.com/JaviLopezG?tab=stars) are the projects that are interested to be for some reason.
 
 ## ✍️ Últimos posts sobre tecnología:
 
