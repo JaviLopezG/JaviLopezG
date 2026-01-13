@@ -20,7 +20,10 @@ jobs:
           feed-url: https://javilopezg.com/category/seccion/tecnologia/feed/
           readme-section: feed
           empty-commits: false
-          max: 7
+          max: 3
           template: |
             ### **{{title}}**
-            > {{content}}
+            <sup><time>{{pubDate}}</time></sup>
+            {{#content}}
+            > {{.}}
+            {{/content}}
