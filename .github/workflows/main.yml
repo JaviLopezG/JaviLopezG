@@ -24,4 +24,4 @@ jobs:
           template: |
             ### **{{title}}**
             <sup><time>{{pubDate}}</time></sup>
-            > {{{content}}}
+            > <sub>{{content}}</sub>
