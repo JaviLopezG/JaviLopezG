@@ -26,13 +26,13 @@
 ## ✍️ Últimos posts sobre tecnología:
 
 <!--START_SECTION:feed-->
-### **Clinical AI ¿alguien piensa en el enfermo?**
-<sup><time>Sat, 17 Jan 2026 22:42:36 +0000</time></sup>
-> El mundo mira horrorizado la propuesta de OpenAI para una especialización médica de su IA generativa, y quizá sea porque mi visión de «lo de la IA» no es tan absolutista de «todo mal» (ni tampoco «todo bien»), pero no me parece una idea tan mala. Creo que el callo de más de 20 años &#8230; <a href="https://javilopezg.com/clinical-ai-alguien-piensa-en-el-enfermo/" class="more-link">Continuar leyendo<span class="screen-reader-text"> "Clinical AI ¿alguien piensa en el enfermo?"</span></a>
-### **Collaborative Anual Planner**
-<sup><time>Tue, 30 Dec 2025 17:34:43 +0000</time></sup>
-> Esta aplicación web permite crear calendarios que compartir con otras personas, haciendo que cualquiera con el enlace pueda editarlo sin necesidad de crear usuarios ni identificarse de ningún modo. El calendario, por defecto, se establece para el año en curso salvo si es diciembre que ya se prepara para lo que viene. Sin embargo, en &#8230; <a href="https://javilopezg.com/collaborative-anual-planner/" class="more-link">Continuar leyendo<span class="screen-reader-text"> "Collaborative Anual Planner"</span></a>
-### **Bingo Social**
-<sup><time>Tue, 23 Dec 2025 10:54:00 +0000</time></sup>
-> Bingo Social es una web app que permite crear cartones de bingo que puedes compartir con amigos o en redes para que todos jueguen a la vez y puedan ver en tiempo real la evolución de los demás participantes. Es un modo de mantenerse entretenido y en contacto de un modo amigable y divertido. Cada &#8230; <a href="https://javilopezg.com/bingo-social/" class="more-link">Continuar leyendo<span class="screen-reader-text"> "Bingo Social"</span></a>
+### **Sin portada**
+<sup><time>Tue, 21 Jul 2026 11:44:56 +0000</time></sup>
+> Llevo unos días muy maluco de «lo mío» y para intentar olvidar el bajo efecto y las altas dosis de analgésicos y el estruendo del deporte patrio ™, el domingo me puse manos a la obra para solucionar un problema: lo difícil que es escoger una próxima lectura porque es imposible no juzgar a un &#8230; <a href="https://javilopezg.com/sin-portada/" class="more-link">Continuar leyendo<span class="screen-reader-text"> "Sin portada"</span></a>
+### **Todo encaja**
+<sup><time>Thu, 16 Jul 2026 14:19:07 +0000</time></sup>
+> Muchas de las cosas que pasaron la semana pasada siguen dando coletazos esta. Tenemos Palantir, Pegasus y modelos de negocio chocando entre sí como trenes de mercancías en un problema de matemáticas. Ante los hypes que empiezan a flojear aparecen nuevos hypes para ocupar su sitio, quizá vaya siendo hora de un cambio y me &#8230; <a href="https://javilopezg.com/todo-encaja/" class="more-link">Continuar leyendo<span class="screen-reader-text"> "Todo encaja"</span></a>
+### **Nos han colado un gol**
+<sup><time>Thu, 09 Jul 2026 19:33:43 +0000</time></sup>
+> Nos han colado un gol, y no en el mundial. Esta semana viene cargada de cambios, aunque mientras todo cambia, todo sigue igual. Los ricos se enriquecen y los pobres se empobrecen, la derecha toma posiciones en todo el mundo (hablando de absentismo, por ej.) y se prepara para el asalto a las «democracias» que &#8230; <a href="https://javilopezg.com/nos-han-colado-un-gol/" class="more-link">Continuar leyendo<span class="screen-reader-text"> "Nos han colado un gol"</span></a>
 <!--END_SECTION:feed-->
