@@ -28,7 +28,7 @@
 <!--START_SECTION:feed-->
 ### **Muchos frentes abiertos**
 <sup><time>Fri, 24 Jul 2026 12:14:31 +0000</time></sup>
-> Para mí, lo más relevante de esta semana es haber lanzado sinportada.net (una herramienta para aprovecha y fomentar que España no sufre la crisis de lectura que hay en otros países) y que dibujé un michi, pero mientras yo estaba en mi burbuja de dolores y Tramadol, el mundo seguía dando vueltas de forma errática, &#8230; <a href="https://javilopezg.com/muchos-frentes-abiertos/" class="more-link">Continuar leyendo<span class="screen-reader-text"> "Muchos frentes abiertos"</span></a>
+> Para mí, lo más relevante de esta semana es haber lanzado sinportada.net (una herramienta para aprovechar y fomentar que España no sufre la crisis de lectura que hay en otros países) y que dibujé un michi, pero mientras yo estaba en mi burbuja de dolores y Tramadol, el mundo seguía dando vueltas de forma errática, &#8230; <a href="https://javilopezg.com/muchos-frentes-abiertos/" class="more-link">Continuar leyendo<span class="screen-reader-text"> "Muchos frentes abiertos"</span></a>
 ### **Sin portada**
 <sup><time>Tue, 21 Jul 2026 11:44:56 +0000</time></sup>
 > Llevo unos días muy maluco de «lo mío» y para intentar olvidar el bajo efecto y las altas dosis de analgésicos y el estruendo del deporte patrio ™, el domingo me puse manos a la obra para solucionar un problema: lo difícil que es escoger una próxima lectura porque es imposible no juzgar a un &#8230; <a href="https://javilopezg.com/sin-portada/" class="more-link">Continuar leyendo<span class="screen-reader-text"> "Sin portada"</span></a>
