@@ -26,13 +26,13 @@
 ## ✍️ Últimos posts sobre tecnología:
 
 <!--START_SECTION:feed-->
+### **A fuego**
+<sup><time>Sun, 09 Aug 2026 15:20:33 +0000</time></sup>
+> Estas semanas de te-erres (tragedias y Tramadol) se me ha acumulado el trabajo, así que he optado por pedirle a una IA que ponga orden en la gran selección de enlaces que quiero publicar, para que sea más fácil contaros todo lo que os quiero contar 🙂 Ya sé que en mi primer resumen dije &#8230; <a href="https://javilopezg.com/a-fuego/" class="more-link">Continuar leyendo<span class="screen-reader-text"> "A fuego"</span></a>
 ### **Muchos frentes abiertos**
 <sup><time>Fri, 24 Jul 2026 12:14:31 +0000</time></sup>
 > Para mí, lo más relevante de esta semana es haber lanzado sinportada.net (una herramienta para aprovechar y fomentar que España no sufre la crisis de lectura que hay en otros países) y que dibujé un michi, pero mientras yo estaba en mi burbuja de dolores y Tramadol, el mundo seguía dando vueltas de forma errática, &#8230; <a href="https://javilopezg.com/muchos-frentes-abiertos/" class="more-link">Continuar leyendo<span class="screen-reader-text"> "Muchos frentes abiertos"</span></a>
 ### **Sin portada**
 <sup><time>Tue, 21 Jul 2026 11:44:56 +0000</time></sup>
 > Llevo unos días muy maluco de «lo mío» y para intentar olvidar el bajo efecto y las altas dosis de analgésicos y el estruendo del deporte patrio ™, el domingo me puse manos a la obra para solucionar un problema: lo difícil que es escoger una próxima lectura porque es imposible no juzgar a un &#8230; <a href="https://javilopezg.com/sin-portada/" class="more-link">Continuar leyendo<span class="screen-reader-text"> "Sin portada"</span></a>
-### **Todo encaja**
-<sup><time>Thu, 16 Jul 2026 14:19:07 +0000</time></sup>
-> Muchas de las cosas que pasaron la semana pasada siguen dando coletazos esta. Tenemos Palantir, Pegasus y modelos de negocio chocando entre sí como trenes de mercancías en un problema de matemáticas. Ante los hypes que empiezan a flojear aparecen nuevos hypes para ocupar su sitio, quizá vaya siendo hora de un cambio y me &#8230; <a href="https://javilopezg.com/todo-encaja/" class="more-link">Continuar leyendo<span class="screen-reader-text"> "Todo encaja"</span></a>
 <!--END_SECTION:feed-->
