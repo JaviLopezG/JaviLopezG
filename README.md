@@ -26,13 +26,13 @@
 ## ✍️ Últimos posts sobre tecnología:
 
 <!--START_SECTION:feed-->
+### **¿Cuál fue tu primera came?**
+<sup><time>Tue, 25 Aug 2026 09:24:17 +0000</time></sup>
+> Para escribir esta entrada he invertido 1h 52m. 👴 Recuerdo un tiempo antes de las Redes Sociales en el que la red era mucho más social y era habitual tener respuestas cuando preguntabas. Rememorando aquel entonces os lanzo esta pregunta que yo mismo voy a responder: ¿Cuál fue tu primera came? En aquellos tiempos, cuando &#8230; <a href="https://javilopezg.com/cual-fue-tu-primera-came/" class="more-link">Continuar leyendo<span class="screen-reader-text"> "¿Cuál fue tu primera came?"</span></a>
 ### **Lavarse la cara**
 <sup><time>Sat, 22 Aug 2026 15:37:10 +0000</time></sup>
 > Para escribir esta entrada he invertido 29m. Lavarse la cara es algo que conviene hacer de vez en cuando, si no todos los días, y este sitio venía pidiendo un lavado de cara desde hace tiempo. Esta mañana, me he puesto manos a la obra, y he realizado algunas mejoras: Tenéis el plugin y el &#8230; <a href="https://javilopezg.com/lavarse-la-cara/" class="more-link">Continuar leyendo<span class="screen-reader-text"> "Lavarse la cara"</span></a>
 ### **A fuego**
 <sup><time>Sun, 09 Aug 2026 15:20:33 +0000</time></sup>
 > Estas semanas de te-erres (tragedias y Tramadol) se me ha acumulado el trabajo, así que he optado por pedirle a una IA que ponga orden en la gran selección de enlaces que quiero publicar, para que sea más fácil contaros todo lo que os quiero contar 🙂 Ya sé que en mi primer resumen dije &#8230; <a href="https://javilopezg.com/a-fuego/" class="more-link">Continuar leyendo<span class="screen-reader-text"> "A fuego"</span></a>
-### **Muchos frentes abiertos**
-<sup><time>Fri, 24 Jul 2026 12:14:31 +0000</time></sup>
-> Para mí, lo más relevante de esta semana es haber lanzado sinportada.net (una herramienta para aprovechar y fomentar que España no sufre la crisis de lectura que hay en otros países) y que dibujé un michi, pero mientras yo estaba en mi burbuja de dolores y Tramadol, el mundo seguía dando vueltas de forma errática, &#8230; <a href="https://javilopezg.com/muchos-frentes-abiertos/" class="more-link">Continuar leyendo<span class="screen-reader-text"> "Muchos frentes abiertos"</span></a>
 <!--END_SECTION:feed-->
