@@ -26,13 +26,13 @@
 ## ✍️ Últimos posts sobre tecnología:
 
 <!--START_SECTION:feed-->
+### **DNS4EU: cuestión de soberanía**
+<sup><time>Sat, 21 Nov 2026 11:43:03 +0000</time></sup>
+> Para escribir esta entrada he invertido 1h 37m. DNS es un sistema de nombres que sirve para que los humanos no tengan que memorizar direcciones de máquinas del tipo 82.98.188.5 (IPv4) o 2001:0db8:85a3::1319:8a2e:0370:7344 (IPv6), pudiendo escribir directamente «javilopezg.com» en su lugar. Cuando escribimos un dominio en el navegador (probablemente en la parte de arriba de &#8230; <a href="https://javilopezg.com/dns4eu-cuestion-de-soberania/" class="more-link">Continuar leyendo<span class="screen-reader-text"> "DNS4EU: cuestión de soberanía"</span></a>
 ### **¿Cuál fue tu primera came?**
 <sup><time>Tue, 25 Aug 2026 09:24:17 +0000</time></sup>
 > Para escribir esta entrada he invertido 1h 52m. 👴 Recuerdo un tiempo antes de las Redes Sociales en el que la red era mucho más social y era habitual tener respuestas cuando preguntabas. Rememorando aquel entonces os lanzo esta pregunta que yo mismo voy a responder: ¿Cuál fue tu primera came? En aquellos tiempos, cuando &#8230; <a href="https://javilopezg.com/cual-fue-tu-primera-came/" class="more-link">Continuar leyendo<span class="screen-reader-text"> "¿Cuál fue tu primera came?"</span></a>
 ### **Lavarse la cara**
 <sup><time>Sat, 22 Aug 2026 15:37:10 +0000</time></sup>
 > Para escribir esta entrada he invertido 29m. Lavarse la cara es algo que conviene hacer de vez en cuando, si no todos los días, y este sitio venía pidiendo un lavado de cara desde hace tiempo. Esta mañana, me he puesto manos a la obra, y he realizado algunas mejoras: Tenéis el plugin y el &#8230; <a href="https://javilopezg.com/lavarse-la-cara/" class="more-link">Continuar leyendo<span class="screen-reader-text"> "Lavarse la cara"</span></a>
-### **A fuego**
-<sup><time>Sun, 09 Aug 2026 15:20:33 +0000</time></sup>
-> Estas semanas de te-erres (tragedias y Tramadol) se me ha acumulado el trabajo, así que he optado por pedirle a una IA que ponga orden en la gran selección de enlaces que quiero publicar, para que sea más fácil contaros todo lo que os quiero contar 🙂 Ya sé que en mi primer resumen dije &#8230; <a href="https://javilopezg.com/a-fuego/" class="more-link">Continuar leyendo<span class="screen-reader-text"> "A fuego"</span></a>
 <!--END_SECTION:feed-->
